@@ -16,10 +16,21 @@ python src.py
 ### Choose size of the puzzle
 - Enter the number of row and collumn of your puzzle
 
+  ![Interface](https://github.com/minhtran0901/SlitherlinkLPSolver/blob/main/Interface.png)
+
 ### Example Screenshots:
-- Unsolved Puzzle:
+- Example Puzzle from the website https://www.puzzle-loop.com/:
   
-- Solved Puzzle:
+  ![puzzle_loop](https://github.com/minhtran0901/SlitherlinkLPSolver/blob/main/7x7%20Slitherlink.jpg)
+
+- You need to enter the values of all the cells in the puzzle:
+   
+  ![puzzle_loop](https://github.com/minhtran0901/SlitherlinkLPSolver/blob/main/Puzzle.png)
+    
+  - Solved Puzzle will be display in terminal after you click **"Solve"**:
+
+  ![Solved puzzle](https://github.com/minhtran0901/SlitherlinkLPSolver/blob/main/result.png)
+
 
 
 ## Note
